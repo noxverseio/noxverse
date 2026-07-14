@@ -612,3 +612,41 @@ display:block;
 width:180px;
 margin:25px auto;
 }
+.detail{
+padding:120px 20px;
+background:#070707;
+text-align:center;
+}
+
+.detail h2{
+color:#D4AF37;
+font-size:48px;
+margin-bottom:30px;
+}
+
+.detail img{
+width:100%;
+max-width:700px;
+border-radius:20px;
+box-shadow:0 0 30px rgba(212,175,55,.25);
+margin:20px 0 30px;
+}
+
+.detail h3{
+color:#fff;
+font-size:28px;
+margin:20px 0 15px;
+}
+
+.detail p{
+max-width:800px;
+margin:0 auto 18px;
+line-height:2;
+font-size:18px;
+color:#ddd;
+}
+
+.detail .btn{
+display:inline-block;
+margin-top:25px;
+}
